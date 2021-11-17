@@ -482,11 +482,7 @@ section{
         
     }
     .hom-right-side img{
-        position: absolute;
-        bottom: -400px;
-        left: 0;
-        width: 99vw;
-        height: 300px;
+        display:none;
     }
     section{
         flex-direction: column;
