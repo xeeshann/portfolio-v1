@@ -479,6 +479,7 @@ section{
     }
     .hom-right-side{
         background-color: white;
+        height:300px;
     }
     .hom-right-side img{
         position: absolute;
