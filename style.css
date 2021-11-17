@@ -482,7 +482,7 @@ section{
     }
     .hom-right-side img{
         position: absolute;
-        bottom: -400px;
+        bottom: -200px;
         left: 0;
         width: 99vw;
         height: 300px;
