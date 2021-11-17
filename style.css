@@ -479,7 +479,7 @@ section{
     }
     .hom-right-side{
         background-color: white;
-        height:300px;
+        
     }
     .hom-right-side img{
         position: absolute;
@@ -490,7 +490,7 @@ section{
     }
     section{
         flex-direction: column;
-        height: 1026px;
+        height: 1100px;
        
     }
     .text{
